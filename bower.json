@@ -1,15 +1,12 @@
 {
   "name": "lumx",
   "description": "The first responsive front-end framework based on AngularJS & Google Material Design specifications",
-  "kewords": [
-    "AngularJS",
-    "Material Design",
-    "Framework"
-  ],
+  "kewords": [],
   "homepage": "http://ui.lumapps.com",
-  "version": "0.0.0",
+  "version": "0.3.96",
   "authors": [
-    "LumApps"
+    "LumApps",
+    "Pangeo"
   ],
   "license": "MIT",
   "main": [
@@ -18,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lumapps/lumx.git"
+    "url": "git://github.com/pangeo/lumx.git"
   },
   "ignore": [
     "**/.*",

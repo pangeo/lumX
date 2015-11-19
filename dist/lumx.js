@@ -1,5 +1,5 @@
 /*
- LumX v0.3.95
+ LumX 
  (c) 2014-2015 LumApps http://ui.lumapps.com
  License: MIT
 */
@@ -1585,7 +1585,7 @@ angular.module('lumx.dropdown', ['lumx.utils.event-scheduler'])
                 var timer;
 
                 ctrl.registerDropdownMenu(element);
-                element.on('click touchend', function(event)
+                element.on('click', function(event)
                 {
                     event.stopPropagation();
 
